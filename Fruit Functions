@@ -1,0 +1,11 @@
+
+  function getFruitColor(fruit) {
+    const fruitColors = {
+      'apple': 'red or green',
+      'banana': 'yellow',
+      'orange':'orange',
+      'blueberry':'blue or purple'
+
+    }
+    }
+    function
